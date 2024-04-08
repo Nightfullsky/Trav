@@ -13,8 +13,8 @@ body{
 }
 .wrapper{
     width: 420px;
-    background:rgb(190, 230, 190);
-    color: #383131;
+    background-image: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(3.jpg);
+    color: #000000;
 }
 .wrapper h1{
     font-size: 36px;
